@@ -2,9 +2,6 @@
 - 👀 I’m interested in front-end development...
 - 🌱 I’m currently learning web development and software management technologies...
 - 
-## Certifications
-
-[![Postman API Badge]([https://api.badgr.io/public/assertions/pBYM2vCfTAWS58Lfi3QQlA?identity__email=ayeshamuskan2114%40gmail.com](https://api.badgr.io/public/assertions/pBYM2vCfTAWS58Lfi3QQlA/image))]
 
 
 
